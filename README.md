@@ -1,0 +1,76 @@
+# Ejercicio-3-de-PrepCourse-Modulo-0
+Este es un repositorio para cargar el ejercicio de Html 
+
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mi Primer Sitio Web</title>
+</head>
+
+<body>
+    <hr />
+    <header>
+        <h1> Creando nueva pagina web para ejercicio</h1>
+    </header>
+
+    <main>
+        <hr />
+        <img src="./robort.jpg " />
+        <hr />
+
+
+        <section>
+
+        <div>
+            <h2> Este texto es para rellenar un poco la pagina </h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro corporis praesentium recusandae nam,
+                debitis exercitationem tenetur facilis architecto qui repellendus dolorum at, beatae distinctio? Vitae
+                nihil consequatur atque nulla repellendus. </p>
+
+        </div>
+
+        <hr />
+
+        <article>
+            <h3> este puede ser un titulo de una nota de esta seccion</h3>
+            <hr />
+        </article>
+
+        <article>
+
+            <h4>Mas texto de relleno pero con distinto tamaño </h4>
+            <hr />
+
+            <p>Ejemplo 1 de listado</p>
+
+            <p>Elemento 1</p>
+
+            <p>Elemento 2</p>
+
+            <p>Elemento 3</p>
+            <hr />
+
+
+        </article>
+
+        <article>
+            <h5>Otro tipo de listado</h5>
+
+            <ol>
+                <li>Item</li>
+                <li>Item</li>
+                <li>Item</li>
+            </ol>
+
+            <hr />
+        </article>
+
+        </section>
+
+    </main>
+</body>
+
+</html>
